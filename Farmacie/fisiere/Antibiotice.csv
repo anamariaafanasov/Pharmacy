@@ -1,0 +1,5 @@
+Denumire,Stoc,Pret,SubstantaActiva,Concentratie,Mod Administrare,Necesita Preparare
+Augmentin,20,20,x,20,orala,FALSE
+Ampicilina,5,34,x,40,injectabil,TRUE
+Cloramfenicol,0,21,y,25,orala,TRUE
+Peniciline,0,42,z,20,injectabil,FALSE
